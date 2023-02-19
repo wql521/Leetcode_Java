@@ -60,7 +60,7 @@ public class 无重复字符的最长子串 {
 
     @Test
     public void test(){
-        String s = "abc1abc1abc";
+        String s = "abc";
     }
 
 //leetcode submit region begin(Prohibit modification and deletion)
