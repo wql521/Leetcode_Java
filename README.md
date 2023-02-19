@@ -1,2 +1,2 @@
 # Leetcode_Java
-算法
+Leetcode算法
